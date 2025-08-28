@@ -59,4 +59,3 @@
 
 ## 🔥 GitHub Streak & Activity
 ![GitHub Streak](https://streak-stats.demolab.com/?user=suryasanthosh1934&theme=radical)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryasanthosh1934&theme=radical)
